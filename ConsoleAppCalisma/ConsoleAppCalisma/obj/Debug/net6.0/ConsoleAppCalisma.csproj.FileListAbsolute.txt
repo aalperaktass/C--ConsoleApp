@@ -1,0 +1,15 @@
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\bin\Debug\net6.0\ConsoleAppCalisma.exe
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\bin\Debug\net6.0\ConsoleAppCalisma.deps.json
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\bin\Debug\net6.0\ConsoleAppCalisma.runtimeconfig.json
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\bin\Debug\net6.0\ConsoleAppCalisma.dll
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\bin\Debug\net6.0\ConsoleAppCalisma.pdb
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.csproj.AssemblyReference.cache
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.AssemblyInfoInputs.cache
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.AssemblyInfo.cs
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.dll
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\refint\ConsoleAppCalisma.dll
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.pdb
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ConsoleAppCalisma.genruntimeconfig.cache
+C:\Users\ALPER\Desktop\Calisma\ConsoleAppCalisma\ConsoleAppCalisma\obj\Debug\net6.0\ref\ConsoleAppCalisma.dll
