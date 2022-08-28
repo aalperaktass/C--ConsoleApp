@@ -6,7 +6,15 @@ namespace ConsoleAppCalisma
     {
         static void Main(string[] args)
         {
+            string[] isimler = { "Alper", "Ahmet", "Ali", "Veli", "ibrahim", "Muhammet", "Cihan" };
 
+            for (int i = 0; i < isimler.Length; i++)
+            {
+                if (isimler[i].Length % 5 == 0)
+                {
+                    Console.WriteLine(isimler[i]);
+                }
+            }
         }
 
         static void DikdortgenAlanHesabı()
@@ -259,10 +267,90 @@ namespace ConsoleAppCalisma
             }
 
         }
-        static void sd()
+        static void Dongu()
         {
+            string[] isimler = { "Alper", "Ahmet", "Berkay", "Deniz" };
+
+            for (int i = 0; i < isimler.Length; i++)
+            {
+                Console.WriteLine(isimler[i]);
+            }
+        }
+        static void Dongu1() //Kullanıcıdan başlangıç, bitiş ve artış miktarını kullanıcıdan alıp aralıktaki sayıları yazdırma.
+        {
+            Console.WriteLine("Başlangıç sayısını giriniz:");
+            var baslangıc = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Bitiş  sayısını giriniz:");
+            var bitis = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Artış miktarını giriniz:");
+            var artıs = int.Parse(Console.ReadLine());
+
+            for (int i = baslangıc; i < bitis; i += artıs)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        static void KatBulma() //Aşağıdaki dizide olan sayılardan hangisi 3 ün katı onları yazdır.
+        {
+            int[] A = { 15, 3, 25, 35, 60, 80, 90, 120 };
+
+            for (int i = 0; i < A.Length; i++)
+            {
+                if (A[i] % 3 == 0)
+                {
+                    Console.WriteLine(A[i]);
+                }
+
+            }
+        }
+        static void SayıToplamı() // dizideki sayı toplamını yazdır
+        {
+            static void Main(string[] args)
+            {
+                int[] sayılar = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+                var result = 0;
+                for (int i = 0; i < sayılar.Length; i++)
+                {
+                    result = result + sayılar[i];
+                }
+                Console.WriteLine(result);
+            }
 
         }
+        static void KaresiniYazdırma() // dizideki tek sayıların karesini yazdır
+        {
+            int[] sayılar = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            var result = 0;
+            for (int i = 0; i < sayılar.Length; i++)
+            {
+                if (sayılar[i] % 2 == 1)
+                {
+                    result = sayılar[i] * sayılar[i];
+                    Console.WriteLine(result);
+                }
+            }
+
+        }
+
+        static void KarakterYazdırma() // Aşağıdaki dizide bulunan 5 karakterli isimleri yazdır.
+        {
+            string[] isimler = { "Alper", "Ahmet", "Ali", "Veli", "ibrahim", "Muhammet", "Cihan" };
+            
+            for (int i = 0; i < isimler.Length; i++)
+            {
+                if (isimler[i].Length % 5 == 0)
+                {
+                    Console.WriteLine(isimler[i]);
+                }
+            }
+        }
+
+        //static void asdf()
+        //{
+
+        //}
 
 
     }
